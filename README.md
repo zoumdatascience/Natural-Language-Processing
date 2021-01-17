@@ -11,7 +11,10 @@ Installation: pip install pdfminer
 2. python-docx 
 This is a Python library for creating and updating Microsoft Word (.docx) files.
 
-3. IO
+3. docx2txt 
+This is a pure python-based utility to extract text and images from docx files. 
+
+4. IO
 The io module provides Python's main facilities for dealing with various types of I/O. 
 No installation needed, because it is already a python builtin module.    
 
